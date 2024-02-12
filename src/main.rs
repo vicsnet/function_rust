@@ -1,4 +1,7 @@
 fn main() {
+    let y = 6;
+
+
     println!("Hello, world!");
     another_function(5);
     print_labeled_measurement(10, 'g');
